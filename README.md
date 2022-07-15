@@ -1,4 +1,6 @@
-# Steam - Projeto Final de Módulo 3
+# 😀 Banco de Dados STEAM
+
+
 
 Nesse projeto, a Squad 4, formada no curso de Desenvolvimento Web pela Resilia Educação, composta pelos aspirantes a desenvolvedores Full Stack: Cindy Rocha, Diego Tavares, Isadora Sant'Ana e Magnus Arthur, foi desafiada a utilizar um Banco de Dados e por meio dele criar um enredo e perguntas as quais serão respondidas por intermédio de códigos estudados durante o referido Módulo.
 Agregando à nossa evolução, nossa facilitadora tech, Karlla Souzza, nos apresentou ferramentas como MongoDB, MySQL Workbranch, Supabase, Laragon, Br Modelo, e outros. Nesse projeto, utilizamos especialmente o Supabase e o MySQL Workbranch.

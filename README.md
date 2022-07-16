@@ -1,5 +1,5 @@
 # Banco de Dados Steam
-<img src="imagens/steam-logo-2.png">
+<img src="imagens/logo.webp">
 Nesse projeto, a Squad 4, formada no curso de Desenvolvimento Web pela Resilia Educação, composta pelos aspirantes a desenvolvedores Full Stack: Cindy Rocha, Diego Tavares, Isadora Sant'Ana e Magnus Arthur, foi desafiada a explorar o Banco de Dados da plataforma Steam.
 
 # Desafio 

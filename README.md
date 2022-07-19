@@ -19,7 +19,8 @@ Para responder as perguntas das queries tivemos a ideia de criar uma história e
 - Quais são as descrições dos jogos
 - Valor total
 
-
+<img src="imagens/grafico1.jpeg">
+<img src="imagens/grafico2.jpeg">
 
 
 # Status do Projeto 

@@ -11,6 +11,17 @@ Para responder as perguntas das queries tivemos a ideia de criar uma história e
 
 <img src="imagens/person.png">
 
+# Queries
+1- Todos os jogos de ação
+2- Todos os jogos da valve
+3- Quantos jogos eu tenho
+4- Jogos no carrinho
+5- Quais são as descrições dos jogos
+6- Valor total
+
+
+
+
 # Status do Projeto 
 Finalizado
 [19:01]
